@@ -1,1 +1,1 @@
-Sub-diretório 'Documentacao' criado para atender a questão 1 da atividade avaliativa.
+Sub-diretório 'Documentacao' criado para atender as questões da atividade avaliativa.
